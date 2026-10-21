@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyter-server/pycrdt-websocket/commit/0b9a09b0e41ede5ae94b513d53d6a30148dd209a",
       "git:hexsha": "0b9a09b0e41ede5ae94b513d53d6a30148dd209a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T22:20:16.744879+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyter-server/pycrdt-websocket/commit/bdaf426b6992ca8a881e808b6175ed94dd055925",
