@@ -1,0 +1,11 @@
+{
+  "org": "jupyter-server",
+  "repo": "pycrdt-websocket",
+  "versions": [
+    {
+      "commit": "0b9a09b0e41ede5ae94b513d53d6a30148dd209a",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:20:16.771304+00:00"
+    }
+  ]
+}
